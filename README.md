@@ -1,3 +1,5 @@
 ## Hello, World! 👋
-Apaixonado por programação em busca de constante evolução
-<br>Sistemas de Informção | UNIPAM :computer:
+
+🌱 I’m currently learning JavaScript
+  
+<br>:computer: Sistemas de Informação | UNIPAM
