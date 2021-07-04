@@ -14,7 +14,7 @@ I love programming and listening to music
 <br>
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=felipelsouza&show_icons=true&theme=dracula&count_private=true" alt="felipelsouza stats" height="200em" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=felipelsouza&show_icons=true&theme=dracula&count_private=true" alt="felipelsouza stats" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelsouza&layout=compact&theme=dracula&count_private=true" alt="felipelsouza top languages" height="200em" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelsouza&layout=compact&theme=dracula&count_private=true" alt="felipelsouza top languages" />
 </div>
