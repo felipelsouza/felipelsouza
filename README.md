@@ -13,6 +13,6 @@ I love programming and listening to music
 💻 React, Vue, React Native and NodeJS ethusiast
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipelsouza&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipelsouza&layout=compact&theme=dracula&count_private=true)
 
-![Felipe Souza's github stats](https://github-readme-stats.vercel.app/api?username=felipelsouza&show_icons=true&theme=dracula)
+![Felipe Souza's github stats](https://github-readme-stats.vercel.app/api?username=felipelsouza&show_icons=true&theme=dracula&count_private=true)
